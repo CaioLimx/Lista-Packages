@@ -142,3 +142,5 @@ BEGIN
     WHERE t.id_disciplina = p_id_disciplina;
     RETURN nome_instrutor_disciplina;
 END;
+
+--teste de commit
